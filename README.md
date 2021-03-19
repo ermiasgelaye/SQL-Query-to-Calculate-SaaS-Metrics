@@ -1,1 +1,1 @@
-# SQL-Query-to-Calculate-SaaS-Metrics
+# SQL Query to Calculate SaaS Metrics
